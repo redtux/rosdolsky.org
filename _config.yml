@@ -1,0 +1,64 @@
+title: rosdolsky.org
+description: >
+  In Memoriam Emmy Rosdolsky (1911-2001) &amp; Roman Rosdolsky (1898-1967).
+#baseurl:
+#url:
+#rss_url: '/atom.xml'                   ## link to RSS feed
+#lang: en                               ## default site language
+#date_format: "%F"                      ## default date format
+
+## Contact details
+#author: redtux
+email: contact@rosdolsky.org
+#twitter_username: redtux
+#github_username:  redtux
+
+## Further site variables in alphabetical order:
+#500px_url: null
+facebook_url: https://www.facebook.com/rosdolsky/
+#github_url: null
+#gitlab_url: null
+#googleplus_url: null
+#instagram_url: null
+#linkedin_url: null
+#pinterest_url: null
+#slack_url: null
+#twitter_url: null
+
+## Build settings
+#theme: minimal
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+gems:
+  - jekyll-admin
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-octicons
+    #- jekyll-press
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+    #- html-proofer
+    #- travis
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
+  - CONDUCT.md
+  - PULL_REQUEST_TEMPLATE.md
+  - vendor
+  - .travis.yml
+  - script
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass

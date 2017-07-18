@@ -1,0 +1,26 @@
+---
+layout: null
+---
+
+## robots.txt for {{ site.url }}
+##
+## Tell the world about my sitemap
+Sitemap: {{ site.baseurl }}/sitemap.xml
+
+## Allow all UAs access, except from:
+User-agent: *
+Disallow: /css
+Disallow: /files
+Disallow: /images
+Disallow: /js
+
+## Keep outside email-collectors
+User-agent: EmailCollector
+Disallow: /
+
+## Kick out crazy robots
+User-agent: GagaRobot
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
