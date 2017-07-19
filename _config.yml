@@ -1,8 +1,8 @@
 title: rosdolsky.org
 description: >
   In Memoriam Emmy Rosdolsky (1911-2001) &amp; Roman Rosdolsky (1898-1967).
-#baseurl:
-#url:
+baseurl: 'https://redtux.github.io'
+url: '/rosdolsky.org'
 #rss_url: '/atom.xml'                   ## link to RSS feed
 #lang: en                               ## default site language
 #date_format: "%F"                      ## default date format
