@@ -9,5 +9,7 @@ dedicated to the lives and works of the revolutionary Marxists
 * @redtux
 
 ## License
+> This project is free software, and you are welcome to redistribute it under the terms stated below.
+> See the [LICENSE.md](LICENSE.md) and [LICENSE-MIT.md](LICENSE-MIT.md) files for details about using this software (or parts of it).
 * Content: CC-BY-SA-4.0 (unless stated otherwise)
 * Code: MIT (unless stated otherwise)
