@@ -2,8 +2,17 @@
 layout: slide
 theme: league
 transition: slide
+title: Historical Materialism reloaded
 lang: en
 ---
+
+<section data-markdown>
+# rosdolsky.org
+### Historical Materialism in the 21st century
+
+<small>Created by **[Stefanie Klamuth](https://twitter.com/kaputtzig)** and **[Pablo Hörtner](https://twitter.com/redtux)**</small>
+</section>
+
 
 <section data-markdown>
 Dedicated to
@@ -13,6 +22,14 @@ Dedicated to
 The following pages give you an idea of what to expect.
 
 <small>[< deutschsprachige version > ](/de/)</small>
+</section>
+
+
+<section data-markdown>
+Through reconstruction of the work and life of Emmy and Roman Rosdolsky, their political formation
+amongst early 20th century's Galician radical youth and Red Vienna intellectuals, and their intense
+debates with important Marxist thinkers, we aim to a) keep memories of the revolutionary labor movement
+alive, and b) emphazise the ongoing relevance of historical materialism in the 21st century.
 </section>
 
 
