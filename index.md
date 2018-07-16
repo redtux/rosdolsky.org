@@ -8,9 +8,12 @@ lang: en
 
 <section data-markdown>
 # rosdolsky.org
-### Historical Materialism in the 21st century
+### [» Ausstellung (Exhibition in German) «](/expo)
+### [» Historical Materialism in the 21st century «](/)
+### [» Historischer Materialismus im 21. Jahrhundert «](/de/)
 
-<small>Created by **[Stefanie Klamuth](https://twitter.com/kaputtzig)** and **[Pablo Hörtner](https://twitter.com/redtux)**</small>
+Created by [Stefanie Klamuth](https://twitter.com/kaputtzig) and [Pablo Hörtner](https://twitter.com/redtux)
+on the occasion of Roman Rosdolsky's 120th birthday.
 </section>
 
 
@@ -26,6 +29,7 @@ The following pages give you an idea of what to expect.
 
 
 <section data-markdown>
+#### Historical Materialism in the 21st century
 Through reconstruction of the work and life of Emmy and Roman Rosdolsky, their political formation
 amongst early 20th century's Galician radical youth and Red Vienna intellectuals, and their intense
 debates with important Marxist thinkers, we aim to a) keep memories of the revolutionary labor movement
