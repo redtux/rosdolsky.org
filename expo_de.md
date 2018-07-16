@@ -1,7 +1,7 @@
 ---
 layout: slide
 theme: league
-transition: slide
+transition: convex
 title: Mit permanenten Grüßen
 lang: de
 permalink: /expo
