@@ -27,6 +27,7 @@ Die folgenden Seiten sind ein kleiner Vorgeschmack auf das, was kommt.
 
 
 <section data-markdown>
+#### Historischer Materialismus im 21. Jahrhundert
 Durch die Rekonstruktion von Leben und Werk von Emmy und Roman Rosdolsky, ihrer politischen Bildung
 unter der radikalen galizischen Jugend und den Intellektuellen des Roten Wiens des frühen 20. Jahrhunderts
 sowie ihrer intensiven Debatten mit wichtigen marxistischen Denker_innen wollen wir a) die revolutionäre
