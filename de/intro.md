@@ -4,14 +4,15 @@ theme: league
 transition: slide
 title: Historical Materialism reloaded
 lang: de
-permalink: /de/
+permalink: /intro/de/
 ---
 
 <section data-markdown>
 # rosdolsky.org
 ### Historical Materialism in the 21st century
 
-<small>Created by **[Stefanie Klamuth](https://twitter.com/kaputtzig)** and **[Pablo Hörtner](https://twitter.com/redtux)**</small>
+Created by **[Stefanie Klamuth](https://twitter.com/kaputtzig)** and **[Pablo Hörtner](https://twitter.com/redtux)**<br>
+anlässlich Roman Rosdolskys 119. Geburtstag
 </section>
 
 
@@ -20,9 +21,9 @@ Gewidmet
 ## Emmy Rosdolsky (1911-2001)
 ## Roman Rosdolsky (1898-1967)
 
-Die folgenden Seiten sind ein kleiner Vorgeschmack auf das, was kommt.
+Die folgenden Seiten sind ein kleiner Vorgeschmack auf das hier entstehende Forschungsportal.
 
-<small>[ < english version > ](/)</small>
+#### [Intro in English](/intro/en/)
 </section>
 
 
