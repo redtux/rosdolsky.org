@@ -229,3 +229,11 @@ Wien, am 19. Juli 2018
 [440 Seiten zu Emmy und Roman Rosdolsky](http://www.mandelbaum.at/buch.php?id=751)
 ![page #04](/images/cover.png)
 </section>
+
+
+<section data-markdown>
+# rosdolsky.org
+### [» Intro on the Rosdolsky research project «](/intro/en/)
+### [» Intro zum Rosdolsky-Forschungsprojekt «](/intro/de/)
+### [» NEW: Ausstellung Mit permanenten Grüßen «](/expo/de/)
+</section>
