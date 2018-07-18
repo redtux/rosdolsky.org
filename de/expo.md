@@ -4,7 +4,7 @@ theme: league
 transition: convex
 title: Mit permanenten Grüßen
 lang: de
-permalink: /expo/de
+permalink: /expo/de/
 ---
 
 <section data-markdown>
