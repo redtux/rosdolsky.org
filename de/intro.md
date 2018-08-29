@@ -121,5 +121,6 @@ Wien, am 19. Juli. 2017
 # rosdolsky.org
 ### [» Intro on the Rosdolsky research project «](/intro/en/)
 ### [» Intro zum Rosdolsky-Forschungsprojekt «](/intro/de/)
-### [» NEW: Ausstellung Mit permanenten Grüßen «](/expo/de/)
+### [» Ausstellung Mit permanenten Grüßen «](/expo/de/)
+### [» NEW: Emmy Rosdolsky (1911–2001) «](/emmy/de/)
 </section>

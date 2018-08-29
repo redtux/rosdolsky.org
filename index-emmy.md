@@ -4,7 +4,7 @@ theme: league
 transition: slide
 title: Historical Materialism reloaded
 lang: en
-permalink: /
+permalink: /emmy/
 ---
 
 <section data-markdown>
