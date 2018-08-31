@@ -32,7 +32,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-gems:
+plugins:
   - jekyll-admin
   - jekyll-avatar
   - jekyll-feed
