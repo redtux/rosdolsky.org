@@ -16,7 +16,7 @@ anlässlich Emmy Rosdolskys 17. Todestag
 
 <section data-markdown>
 ## Mit permanenten Grüßen
-Emmy Rosdolsky wird am 2. Juni 1911 als Emilie Meder in Wien geboren. Seit ihrer frühesten Jugend ist Emmy politisch aktiv – erst im VSM (Verband Sozialistischer Mittelschüler) und später in der KPÖ, wo sie ihren späteren Mann Roman Rosdolsky kennenlernt.
+Emmy Rosdolsky wird am 2. Juni 1911 als Emilie Meder in Wien geboren. Seit ihrer frühesten Jugend ist Emmy politisch aktiv – erst im VSM (Verband Sozialistischer Mittelschüler) und dann in der KPÖ, wo sie ihren späteren Mann Roman Rosdolsky kennenlernt.
 </section>
 
 <section data-markdown>
@@ -41,7 +41,7 @@ In der KPÖ gründet Emmy gemeinsam mit dem späteren Justizminister Christian B
 
 <section data-markdown>
 ## Mit permanenten Grüßen
-Mit dem Einmarsch Hitlers in Wien im März 1938 engagiert sich Emmy weiter politisch – vor allem in der Roten Hilfe, die sie bereits 1934 mit Genoss\_innen betreibt. Sie arbeitet für Anwaltskanzleien und hilft dabei, gefährdete – vor allem jüdische – Genoss\_innen und Freund\_innen außer Landes zu bringen.
+Mit dem Einmarsch Hitlers in Wien im März 1938 engagiert sich Emmy weiter politisch – vor allem in der Roten Hilfe, die sie bereits seit 1934 mit Genoss\_innen betreibt. Sie arbeitet für Anwaltskanzleien und hilft dabei, gefährdete – vor allem jüdische – Genoss\_innen und Freund\_innen außer Landes zu bringen.
 </section>
 
 <section data-markdown>
