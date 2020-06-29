@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/redtux/rosdolsky.org)
+
 ## Welcome to rosdolsky.org
 On this site we are planning a research portal on revolutionary theory & practice in the 20th century,
 dedicated to the lives and works of the revolutionary Marxists
